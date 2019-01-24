@@ -1,6 +1,4 @@
-[package]
-name = "rustwars"
-version = "0.1.0"
-authors = ["vincent"]
-
-[dependencies]
+[workspace]
+members = [
+    "dna-to-rna-conversion",
+]
