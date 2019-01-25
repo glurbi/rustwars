@@ -3,4 +3,6 @@ members = [
     "dna-to-rna-conversion",
     "two-to-one",
     "get-the-middle-character",
+    "count-of-positives-slash-sum-of-negatives",
+    "string-repeat",
 ]

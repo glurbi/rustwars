@@ -1,3 +1,5 @@
+// https://www.codewars.com/kata/two-to-one/
+
 #[allow(dead_code)]
 fn longest(a1: &str, a2: &str) -> String {
     let s = format!("{}{}", a1, a2);

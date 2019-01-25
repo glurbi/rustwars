@@ -1,0 +1,7 @@
+[package]
+name = "count-of-positives-slash-sum-of-negatives"
+version = "0.1.0"
+authors = ["Vincent Gay <glurbi@gmail.com>"]
+edition = "2018"
+
+[dependencies]
