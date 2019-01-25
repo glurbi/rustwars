@@ -8,7 +8,7 @@ fn longest(a1: &str, a2: &str) -> String {
 }
 
 #[cfg(test)]
-    mod tests {
+mod tests {
     use super::*;
    
     fn testing(s1: &str, s2: &str, exp: &str) -> () {

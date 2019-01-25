@@ -2,4 +2,5 @@
 members = [
     "dna-to-rna-conversion",
     "two-to-one",
+    "get-the-middle-character",
 ]
