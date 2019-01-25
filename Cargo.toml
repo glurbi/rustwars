@@ -6,4 +6,5 @@ members = [
     "count-of-positives-slash-sum-of-negatives",
     "string-repeat",
     "toleetspeak",
+    "reversed-sequence",
 ]
