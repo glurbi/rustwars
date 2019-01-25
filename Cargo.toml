@@ -5,4 +5,5 @@ members = [
     "get-the-middle-character",
     "count-of-positives-slash-sum-of-negatives",
     "string-repeat",
+    "toleetspeak",
 ]
