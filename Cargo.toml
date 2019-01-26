@@ -7,5 +7,6 @@ members = [
     "string-repeat",
     "toleetspeak",
     "reversed-sequence",
-    "sequencesum"
+    "sequencesum",
+    "product-of-consecutive-fib-numbers",
 ]
