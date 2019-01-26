@@ -7,4 +7,5 @@ members = [
     "string-repeat",
     "toleetspeak",
     "reversed-sequence",
+    "sequencesum"
 ]
