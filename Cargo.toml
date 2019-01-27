@@ -9,4 +9,5 @@ members = [
     "reversed-sequence",
     "sequencesum",
     "product-of-consecutive-fib-numbers",
+    "how-much",
 ]
