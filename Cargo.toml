@@ -10,4 +10,5 @@ members = [
     "sequencesum",
     "product-of-consecutive-fib-numbers",
     "how-much",
+    "moduli-number-system",
 ]
