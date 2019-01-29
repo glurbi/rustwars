@@ -12,4 +12,5 @@ members = [
     "how-much",
     "moduli-number-system",
     "square-into-squares-protect-trees",
+    "help-your-granny",
 ]
