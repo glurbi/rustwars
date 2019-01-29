@@ -11,4 +11,5 @@ members = [
     "product-of-consecutive-fib-numbers",
     "how-much",
     "moduli-number-system",
+    "square-into-squares-protect-trees",
 ]

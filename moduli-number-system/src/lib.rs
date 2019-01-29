@@ -11,7 +11,6 @@ fn from_nb_2str(n: i64, sys: Vec<i64>) -> String {
     }
 
     sys.iter().map(|x| format!("-{}-", n % x)).collect()
-
 }
 
 fn pairwise_co_prime(sys: &Vec<i64>) -> bool {
